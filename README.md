@@ -27,10 +27,7 @@
 
 <br><br>
 ## PDF 
-[A-1유형](https://websseu.github.io/webdesign2025/pdf/A-1.pdf)    
-[A-2유형](https://websseu.github.io/webdesign2025/pdf/A-2.pdf)   
-[A-3유형](https://websseu.github.io/webdesign2025/pdf/A-3.pdf)   
-[A-4유형](https://websseu.github.io/webdesign2025/pdf/A-4.pdf)   
+[A-1유형](https://websseu.github.io/webdesign2025/pdf/A-1.pdf) [A-2유형](https://websseu.github.io/webdesign2025/pdf/A-2.pdf) [A-3유형](https://websseu.github.io/webdesign2025/pdf/A-3.pdf) [A-4유형](https://websseu.github.io/webdesign2025/pdf/A-4.pdf)   
 [B-1유형](https://websseu.github.io/webdesign2025/pdf/B-1.pdf)   
 [B-2유형](https://websseu.github.io/webdesign2025/pdf/B-2.pdf)   
 [B-3유형](https://websseu.github.io/webdesign2025/pdf/B-3.pdf)   
