@@ -22,6 +22,9 @@
 기본기를 갖춘 분이라면 실전 사이트를 몇 가지 선정하여 실력을 점검하고 부족한 부분을 보완하는 방식으로 학습할 수 있습니다.    
 꾸준한 연습과 요구 사항을 정확히 파악하여 작업하는 연습을 함께 한다면, 실기 시험에서 좋은 결과를 얻을 수 있을 것입니다.    
 
+## 전체 디자인 보기
+[피그마](https://www.figma.com/design/8onnvYgsYVksIZrIn5RI5g/%EC%9B%B9%EB%94%94%EC%9E%90%EC%9D%B8%EA%B0%9C%EB%B0%9C%EA%B8%B0%EB%8A%A5%EC%82%AC-2025?node-id=0-1&t=0FT1lSJsRIIUnzff-1)
+
 <br><br>
 ## PDF 
 A-1유형 : https://websseu.github.io/webdesign2025/pdf/A-1.pdf    
