@@ -21,3 +21,30 @@
 코딩을 처음 접하시는 분은 각 연습 과정을 하나씩 따라가며 기초를 다지는 것이 좋고, 
 기본기를 갖춘 분이라면 실전 사이트를 몇 가지 선정하여 실력을 점검하고 부족한 부분을 보완하는 방식으로 학습할 수 있습니다.    
 꾸준한 연습과 요구 사항을 정확히 파악하여 작업하는 연습을 함께 한다면, 실기 시험에서 좋은 결과를 얻을 수 있을 것입니다.    
+
+
+### PDF 
+A-1유형 : https://websseu.github.io/webdesign2025/pdf/A-1.pdf    
+A-2유형 : https://websseu.github.io/webdesign2025/pdf/A-2.pdf   
+A-3유형 : https://websseu.github.io/webdesign2025/pdf/A-3.pdf   
+A-4유형 : https://websseu.github.io/webdesign2025/pdf/A-4.pdf   
+B-1유형 : https://websseu.github.io/webdesign2025/pdf/B-1.pdf   
+B-2유형 : https://websseu.github.io/webdesign2025/pdf/B-2.pdf   
+B-3유형 : https://websseu.github.io/webdesign2025/pdf/B-3.pdf   
+B-4유형 : https://websseu.github.io/webdesign2025/pdf/B-4.pdf   
+C-1유형 : https://websseu.github.io/webdesign2025/pdf/C-1.pdf   
+C-2유형 : https://websseu.github.io/webdesign2025/pdf/C-2.pdf   
+C-3유형 : https://websseu.github.io/webdesign2025/pdf/C-3.pdf   
+C-4유형 : https://websseu.github.io/webdesign2025/pdf/C-4.pdf   
+D-1유형 : https://websseu.github.io/webdesign2025/pdf/D-1.pdf   
+D-2유형 : https://websseu.github.io/webdesign2025/pdf/D-2.pdf   
+D-3유형 : https://websseu.github.io/webdesign2025/pdf/D-3.pdf   
+D-4유형 : https://websseu.github.io/webdesign2025/pdf/D-4.pdf   
+E-1유형 : https://websseu.github.io/webdesign2025/pdf/E-1.pdf   
+E-2유형 : https://websseu.github.io/webdesign2025/pdf/E-2.pdf   
+E-3유형 : https://websseu.github.io/webdesign2025/pdf/E-3.pdf   
+E-4유형 : https://websseu.github.io/webdesign2025/pdf/E-4.pdf   
+F-1유형 : https://websseu.github.io/webdesign2025/pdf/F-1.pdf   
+F-2유형 : https://websseu.github.io/webdesign2025/pdf/F-2.pdf    
+F-3유형 : https://websseu.github.io/webdesign2025/pdf/F-3.pdf   
+F-4유형 : https://websseu.github.io/webdesign2025/pdf/F-4.pdf     
