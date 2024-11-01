@@ -22,8 +22,8 @@
 기본기를 갖춘 분이라면 실전 사이트를 몇 가지 선정하여 실력을 점검하고 부족한 부분을 보완하는 방식으로 학습할 수 있습니다.    
 꾸준한 연습과 요구 사항을 정확히 파악하여 작업하는 연습을 함께 한다면, 실기 시험에서 좋은 결과를 얻을 수 있을 것입니다.    
 
-
-### PDF 
+<br><br><br>
+## PDF 
 A-1유형 : https://websseu.github.io/webdesign2025/pdf/A-1.pdf    
 A-2유형 : https://websseu.github.io/webdesign2025/pdf/A-2.pdf   
 A-3유형 : https://websseu.github.io/webdesign2025/pdf/A-3.pdf   
